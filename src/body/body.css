@@ -127,6 +127,11 @@
     
     
     }
+    .text-area{
+        padding:1% ;
+        top: 500px;
+        
+    }
     .span{
         display: flex;
     }
