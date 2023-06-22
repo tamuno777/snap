@@ -75,7 +75,7 @@
     }
     .heroimg{
         left: 0;
-        right: 20px;
+        /* right: 20px; */
     }
     .text-area > p{
         padding-right:10px;
